@@ -1,1 +1,1 @@
-# PynqZ2
+# Pynq Z2 Demo's
